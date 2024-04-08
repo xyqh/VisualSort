@@ -1,0 +1,9 @@
+.idea
+.vs
+Library
+Logs
+obj
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+VisualSort.sln
